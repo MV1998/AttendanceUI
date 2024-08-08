@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomerGroups</string>
+    <string name="next_meeting">Next Meeting : 2023-08-15</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="cust_id">Cust ID</string>
+    <string name="absent">Absent</string>
+    <string name="present">Present</string>
+</resources>
